@@ -15,7 +15,7 @@
 ## 📖 *About Me (من مفكرة الساحر)*
 
 **Name:** moon9io 👋  
-**Loves:** 📺 Anime (Frieren!), 🎮 Gaming, 📚 Magic Books, 🐧 Linux Ricing  
+**Loves:** 📺 Anime, 🎮 Gaming, 📚 Magic Books, 🐧 Linux Ricing  
 **Hobbies:** 💻 Web Development, 🌐 Tech Stuff, 🍵 Tea Brewing
 
 ---
@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/moon9io">
-    <img src="https://github-readme-stats.vercel.app/api?username=moon9io&show_icons=true&theme=transparent&title_color=9b5de5&icon_color=9b5de5&text_color=f8f9fa&border_color=9b5de5" alt="GitHub Stats">
+    <img src="[https://github-readme-stats.vercel.app/api?username=moon9io&show_icons=true&theme=transparent&title_color=9b5de5&icon_color=9b5de5&text_color=f8f9fa&border_color=9b5de5" alt="GitHub Stats](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.dexerto.com%2Fanime%2Ffrieren-beyond-journeys-end-review-2313536%2F&ved=0CBYQjRxqFwoTCJChtKWMkJIDFQAAAAAdAAAAABA-&opi=89978449)">
   </a>
 </p>
 
