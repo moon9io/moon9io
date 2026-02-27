@@ -13,5 +13,5 @@ name: moon9io
 location: somewhere in the cloud ☁️
 loves: [Anime, Games, Books, Linux, Open Source]
 hobbies: [Web Development, UI/UX Design, Python Scripting, Hugo Blogging]
-currently_learning: ["Advanced JavaScript", "Docker", "Cloud Computing"]
+currently_learning: ["Hugo", "linux", "Cloud Computing"]
 favorite_anime: Frieren: Beyond Journey's End
