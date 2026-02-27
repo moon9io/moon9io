@@ -15,7 +15,8 @@ interests: [Python, JavaScript, Web Development, Hugo, Linux Customization]
 projects: [Hangman Game (Python/JS), Tea House Blog, Arabic Blog, Motion Graphics]
 currently: Building interactive web games and blogging with Hugo
 
-🚀 Featured Projects
+```
+## 🚀 Featured Projects
 Project	Description	Stack
 Hangman Game (Python)	Classic hangman with terminal interface	Python
 Hangman Pro Game	Professional web version with achievements & audio	JavaScript, HTML, CSS
