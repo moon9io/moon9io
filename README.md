@@ -10,6 +10,8 @@
 
 ```yaml
 name: moon9io
+location: somewhere in the cloud ☁️
+loves: [Anime, manhwa, Books, Linux, Open Source]
 os: Fedora Linux 🖥️
 interests: [Python, JavaScript, Web Development, Hugo, Linux Customization]
 projects: [Hangman Game (Python/JS), Tea House Blog, Arabic Blog, Motion Graphics]
