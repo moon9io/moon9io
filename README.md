@@ -36,7 +36,7 @@ projects:
   - Arabic Blog
   - Motion Graphics
 
-currently: "Building interactive web games and blogging with Hugo"
+currently: "..."
 ```
 
 ---
